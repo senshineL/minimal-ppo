@@ -1,0 +1,1 @@
+A minimal implementation of Proximal Policy Optimization for discrete control based on Torch and Gym.
